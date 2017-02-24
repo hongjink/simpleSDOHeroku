@@ -9,7 +9,7 @@
 		
 	},
 	"addons":[
-		"heroku-postgresql:hobby-dev",
+		"heroku-postgresql:private-0",
 		"herokuconnect:demo"
 	]
 }
